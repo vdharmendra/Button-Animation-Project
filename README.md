@@ -14,7 +14,7 @@ This is a simple, interactive button animation project created using HTML, CSS, 
 </ul>
 
 # Preview
-<a href="https://www.behance.net/gallery/215231029/CSS-BUTTON-ANIMATION-PROJECT">
+<a href="https://www.behance.net/gallery/215231029/CSS-BUTTON-ANIMATION-PROJECT" target="_blank">
 <img style="width:350px;" src="./buttonAnimation.gif" alt="" />
 <br />
 <img style="width:350px;" src="./buttonAnimation.png" alt="" />
